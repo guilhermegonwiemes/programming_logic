@@ -33,3 +33,10 @@ Program that calculates the Body Mass Index (BMI) from the user's
 weight and height, returning the value and classification.
 
 **Tool:** Portugol Studio
+
+###  Triangle Classifier
+Program that receives three measurements and determines whether they
+form a valid triangle. If valid, classifies it as equilateral,
+isosceles or scalene.
+
+**Tool:** Portugol Studio
