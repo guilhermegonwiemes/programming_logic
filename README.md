@@ -1,4 +1,4 @@
-# Estudos - Logica_Programacao_Pessoal
+# Estudos - Logica de Programacao - Iniciativa Própria
 
 Repositório com projetos pessoais e exercícios desenvolvidos durante meu aprendizado de logica de programação, com projetos feitos por iniciativa própria.
 
