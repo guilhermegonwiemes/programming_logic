@@ -1,6 +1,6 @@
-# Estudos - Logica de Programacao - Iniciativa Própria
+# Estudos - Lógica de Programacao - Iniciativa Própria
 
-Repositório com projetos pessoais e exercícios desenvolvidos durante meu aprendizado de logica de programação, com projetos feitos por iniciativa própria.
+Repositório com projetos pessoais e exercícios desenvolvidos durante meu aprendizado de lógica de programação, com projetos feitos por iniciativa própria.
 
 ## Projetos
 
@@ -12,14 +12,12 @@ desenvolvido para expandir o estudo de geometria e lógica de programação.
 
 **Ferramenta:** Portugol Studio
 
-
-###  Calculadora Geométrica 3D
+### Calculadora Geométrica 3D
 Programa em Portugol que calcula volume, área e perímetro de formas
 espaciais: Cubo, Paralelepípedo, Cilindro e Esfera.
 Desenvolvido por iniciativa própria para praticar lógica de programação.
 
 **Ferramenta:** Portugol Studio
-
 
 ### Calculadora de Médias Escolares
 Programa desenvolvido em Portugol por iniciativa própria para calcular
@@ -29,7 +27,6 @@ situação do aluno: aprovado, em recuperação ou reprovado.
 
 **Ferramenta:** Portugol Studio
 
-
 ### Calculadora de IMC
 
 Programa desenvolvido em Portugol por iniciativa própria que calcula
@@ -38,4 +35,3 @@ informados, retornando o valor calculado e a classificação:
 abaixo do peso, peso normal, sobrepeso ou obesidade.
 
 **Ferramenta:** Portugol Studio
-
