@@ -4,7 +4,7 @@ Repositório com projetos pessoais e exercícios desenvolvidos durante meu apren
 
 ## Projetos
 
-### Caalculadora Geométrica 2D
+### Calculadora Geométrica 2D
 Programa desenvolvido em Portugol por iniciativa própria que calcula
 área e perímetro de figuras planas: Quadrado, Retângulo, Círculo e
 Triângulo. Projeto complementar à Calculadora Geométrica 3D,
