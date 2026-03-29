@@ -1,37 +1,35 @@
-# Estudos - Lógica de Programacao - Iniciativa Própria
+# Programming Logic — Personal Projects
 
-Repositório com projetos pessoais e exercícios desenvolvidos durante meu aprendizado de lógica de programação, com projetos feitos por iniciativa própria.
+Repository with personal projects developed to practice programming logic.
 
-## Projetos
+> **Note:** These projects were built with **Portugol**, a Portuguese-based
+> pseudocode language widely used in Brazilian technical education to teach
+> programming logic. It is similar to pseudocode and shares the same core
+> concepts as Python, Java, and other languages.
 
-### Calculadora Geométrica 2D
-  Programa desenvolvido em Portugol por iniciativa própria que calcula
-área e perímetro de figuras planas: Quadrado, Retângulo, Círculo e
-Triângulo. Projeto complementar à Calculadora Geométrica 3D,
-desenvolvido para expandir o estudo de geometria e lógica de programação.
+## Projects
 
-**Ferramenta:** Portugol Studio
+###  2D Geometric Calculator
+Program that calculates area and perimeter of flat figures:
+Square, Rectangle, Circle and Triangle.
 
-### Calculadora Geométrica 3D
-  Programa em Portugol que calcula volume, área e perímetro de formas
-espaciais: Cubo, Paralelepípedo, Cilindro e Esfera.
-Desenvolvido por iniciativa própria para praticar lógica de programação.
+**Tool:** Portugol Studio
 
-**Ferramenta:** Portugol Studio
+###  3D Geometric Calculator
+Program that calculates volume, area and perimeter of spatial figures:
+Cube, Rectangular Prism, Cylinder and Sphere.
 
-### Calculadora de Médias Escolares
-  Programa desenvolvido em Portugol por iniciativa própria para calcular
-a média escolar de um aluno. O professor insere a quantidade de notas
-que desejar, e o programa calcula a média e retorna automaticamente a
-situação do aluno: aprovado, em recuperação ou reprovado.
+**Tool:** Portugol Studio
 
-**Ferramenta:** Portugol Studio
+###  School Grade Calculator
+Program that calculates a student's average grade. The user enters
+as many grades as desired, and the program returns the result:
+approved, in recovery or failed.
 
-### Calculadora de IMC
+**Tool:** Portugol Studio
 
-  Programa desenvolvido em Portugol por iniciativa própria que calcula
-o Índice de Massa Corporal (IMC) do usuário a partir do peso e altura
-informados, retornando o valor calculado e a classificação:
-abaixo do peso, peso normal, sobrepeso ou obesidade.
+###  BMI Calculator
+Program that calculates the Body Mass Index (BMI) from the user's
+weight and height, returning the value and classification.
 
-**Ferramenta:** Portugol Studio
+**Tool:** Portugol Studio
